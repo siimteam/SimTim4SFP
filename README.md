@@ -1,2 +1,2 @@
 # SimTim4SFP
-Simultaneous endpoint timing.
+Simultaneous endpoints timing.
